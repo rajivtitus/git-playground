@@ -6,7 +6,7 @@ https://capture-gallery-project.netlify.app/
 
 Screenshot:
 
-
+![image](https://user-images.githubusercontent.com/75184965/109596163-88151e80-7aca-11eb-9d0f-52c969faadd5.png)
 
 
 Setup:

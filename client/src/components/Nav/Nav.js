@@ -60,7 +60,7 @@ const Nav = () => {
             </Button>
           </div>
         ) : (
-          <Button className={classes.login} component={Link} to="/auth" varaint="contained">
+          <Button className={classes.login} component={Link} to="/auth" color='primary' variant="contained">
             Sign In
           </Button>
         )}

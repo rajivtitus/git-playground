@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          GIT Demo
+          This is a dummy commit!
         </a>
       </header>
     </div>
